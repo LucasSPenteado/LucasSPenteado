@@ -1,7 +1,7 @@
 # Hi there, I'm Lucas 👋
 
-I'm a **college student** and apassionate about **Computer Graphics** 🎨 and visual computing but my strongest skills are in **Web Development** 💻.  
-I combine creativity with code to build engaging and interactive digital experiences. From Brazil 🌎 living in Ireland who builds clean, efficient, and user-focused applications.
+I'm a **college student** and have a desire to learn **Computer Graphics** and visual computing but my strongest skills are in **Web Development**.  
+I'm From Brazil living in Ireland who builds clean, efficient, and user-focused applications.
 
 ## 🚀 About Me
 

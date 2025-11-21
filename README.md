@@ -8,7 +8,6 @@ I'm From Brazil living in Ireland who builds clean, efficient, and user-focused 
 - 🎓 Currently pursuing a **degree in Computer Science**
 - 💻 Most experienced with **frontend and full-stack web development**
 - 🌱 Exploring the world of **graphics programming**, **rendering**, and **game engines**
-- 💬 Ask me about **React, Node.js, and API design**
 
 ## 🧰 Tech Stack
 

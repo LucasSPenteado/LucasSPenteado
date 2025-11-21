@@ -19,7 +19,6 @@ I'm From Brazil living in Ireland who builds clean, efficient, and user-focused 
 
 ## 📊 GitHub Stats
 
-![Lucas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasspenteado&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasspenteado&layout=compact&theme=tokyonight)
 
 ## 🌐 Connect with me

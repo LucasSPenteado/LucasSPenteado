@@ -3,7 +3,7 @@
 I'm a **college student** and have a desire to learn **Computer Graphics** and visual computing but my strongest skills are in **Web Development**.  
 I'm From Brazil living in Ireland who builds clean, efficient, and user-focused applications.
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Currently pursuing a **degree in Computer Science**
 - 💻 Most experienced with **frontend and full-stack web development**

@@ -6,7 +6,7 @@ I'm From Brazil living in Ireland who builds clean, efficient, and user-focused 
 ## About Me
 
 - 🎓 Currently pursuing a **degree in Computer Science**
-- 💻 Most experienced with **frontend and full-stack web development**
+- 💻 Most experienced with **frontend, backend and full-stack web development**
 - 🌱 Exploring the world of **graphics programming**, **rendering**, and **game engines**
 
 ## Tech Stack
